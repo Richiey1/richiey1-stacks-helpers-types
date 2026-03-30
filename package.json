@@ -1,0 +1,40 @@
+{
+  "name": "richiey1-stacks-helpers-types",
+  "version": "1.0.0",
+  "description": "Type definitions, constants, and network configs for Stacks L2 development",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@stacks/network": "^7.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "stacks",
+    "bitcoin",
+    "l2",
+    "blockchain",
+    "types"
+  ],
+  "author": "Richiey1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Richiey1/stacks-helpers-types",
+    "directory": "packages/types"
+  },
+  "bugs": {
+    "url": "https://github.com/Richiey1/stacks-helpers-types/issues"
+  },
+  "homepage": "https://github.com/Richiey1/stacks-helpers-types#readme"
+}
