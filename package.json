@@ -1,12 +1,11 @@
 {
   "name": "richiey1-stacks-helpers-types",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Type definitions, constants, and network configs for Stacks L2 development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist",
-    "README.md"
+    "dist"
   ],
   "scripts": {
     "build": "tsc"
@@ -31,7 +30,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types"
+    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types",
+    "directory": "packages/types"
   },
   "bugs": {
     "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types/issues"
