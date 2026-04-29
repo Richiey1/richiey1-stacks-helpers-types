@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "tsc"
@@ -30,8 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types",
-    "directory": "packages/types"
+    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types"
   },
   "bugs": {
     "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types/issues"
