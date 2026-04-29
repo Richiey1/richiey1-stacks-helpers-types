@@ -31,10 +31,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types"
+    "url": "https://github.com/Richiey1/stacks-helpers-types"
   },
   "bugs": {
-    "url": "https://github.com/Richiey1/richiey1-stacks-helpers-types/issues"
+    "url": "https://github.com/Richiey1/stacks-helpers-types/issues"
   },
-  "homepage": "https://github.com/Richiey1/richiey1-stacks-helpers-types#readme"
+  "homepage": "https://github.com/Richiey1/stacks-helpers-types#readme"
 }
